@@ -1,10 +1,17 @@
 # Miguel Arroyo  
 **Data Science · Data/ML Systems · Knowledge Graphs · Information Extraction · RAG**
 
-I build graph-centric retrieval and extraction systems and ship them as reproducible, containerized tooling:
-- Knowledge graphs + Cypher-style querying
-- RAG pipelines + evaluation harnesses
-- Clean interfaces: Docker, packaging, reproducibility
+I build and evaluate ML models end-to-end—data → modeling → deployment. 
+
+Grounded in rigorous data science.
+
+Focus areas:
+- Applied ML / Data Science: data cleaning, EDA, statistical modeling, evaluation
+- LLMs + Graphs: RAG/GraphRAG, knowledge graphs, information extraction
+- RL: reinforcement learning experiments + pipelines
+
+Currently exploring: deep learning & generative models
+
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-arroyo-228b6a246">
